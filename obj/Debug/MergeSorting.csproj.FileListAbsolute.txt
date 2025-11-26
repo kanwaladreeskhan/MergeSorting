@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MergeSorting\MergeSorting\bin\Debug\MergeSorting.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MergeSorting\MergeSorting\bin\Debug\MergeSorting.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MergeSorting\MergeSorting\bin\Debug\MergeSorting.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MergeSorting\MergeSorting\obj\Debug\MergeSorting.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MergeSorting\MergeSorting\obj\Debug\MergeSorting.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MergeSorting\MergeSorting\obj\Debug\MergeSorting.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\MergeSorting\MergeSorting\obj\Debug\MergeSorting.pdb
